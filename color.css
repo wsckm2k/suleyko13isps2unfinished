@@ -1,0 +1,17 @@
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-sm: 12px;
+  --font-size-base: 24px;
+  --font-size-lg: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mistyrose: #ffd4d4;
+  --color-snow: #fff6f6;
+  --color-lightpink: #ffbcbc;
+  --color-lightcoral: #ff9e9e;
+  --color-dimgray: #585858;
+}
